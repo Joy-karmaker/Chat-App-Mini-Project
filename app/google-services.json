@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578414105678",
+    "firebase_url": "https://mini-messenger-87f73.firebaseio.com",
+    "project_id": "mini-messenger-87f73",
+    "storage_bucket": "mini-messenger-87f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578414105678:android:a1d7734fe6a57f08",
+        "android_client_info": {
+          "package_name": "com.example.mini_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578414105678-b2jbgbh01jqsftbrk69krc4o85mr2bt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_messenger",
+            "certificate_hash": "fefc637ef3f1533dd9deda115bc7f15763e9598a"
+          }
+        },
+        {
+          "client_id": "578414105678-v62i80c54a36rmkgi15ko92eg47167m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-F3gwCEjjLu7U0laL0drhjod4gtyrFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578414105678-v62i80c54a36rmkgi15ko92eg47167m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
